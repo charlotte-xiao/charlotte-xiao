@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **charlotte-xiao/charlotte-xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there! 
+
+:wave: I'm ***Xiao Sa***. My ID is ***charlotte-xiao***. I love to create something interesting. 
+
+:label: My top languages are [Java](https://www.java.com/)
+
+:smiley: My blog website is  https://www.xiaostudy.com
+
+:handshake: Thank you for your support all the time!
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=charlotte-xiao&show_icons=true&theme=dracula"/></a>
+
+
+
