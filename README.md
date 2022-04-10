@@ -24,5 +24,36 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=charlotte-xiao&show_icons=true&theme=dracula"/></a>
 
+<h4 align="center">
+
+<p align="center">
+  <a href="https://github.com/charlotte-xiao">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=charlotte-xiao&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/charlotte-xiao">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlotte-xiao&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/charlotte-xiao">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=charlotte-xiao&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=charlotte-xiao&theme=react-dark" alt="drawing" width="800"/>
+
 
 
