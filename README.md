@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 :handshake: Thank you for your support all the time!
 
 <h4 align="center">
-<img src="https://charlotte-xiao.herokuapp.com/get/@:charlotte-xiao" alt="charlotte-xiao" />
+<img src="https://count.getloli.com/get/@:charlotte-xiao" alt="charlotte-xiao" />
 <p align="center">
   <a href="https://github.com/charlotte-xiao">
     <img
