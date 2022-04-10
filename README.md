@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
 ### Hi there! 
 
 :wave: I'm ***Xiao Sa***. My ID is ***charlotte-xiao***. I love to create something interesting. 
@@ -22,10 +23,8 @@ Here are some ideas to get you started:
 
 :handshake: Thank you for your support all the time!
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=charlotte-xiao&show_icons=true&theme=dracula"/></a>
-
 <h4 align="center">
-
+<img src="https://count.getloli.com/get/@:charlotte-xiao" alt="charlotte-xiao" />
 <p align="center">
   <a href="https://github.com/charlotte-xiao">
     <img
@@ -43,7 +42,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/charlotte-xiao">
     <img
@@ -53,7 +51,5 @@ Here are some ideas to get you started:
   </a>
 </a>
 </p>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=charlotte-xiao&theme=react-dark" alt="drawing" width="800"/>
-
-
-
