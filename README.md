@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 :label: My top languages are [Java](https://www.java.com/)
 
-:smiley: My blog website is  https://www.xiaostudy.cn
+:smiley: My website is  https://www.xiaostudy.cn
 
 :handshake: Thank you for your support all the time!
 
 <h4 align="center">
-<img src="https://count.getloli.com/get/@:charlotte-xiao" alt="charlotte-xiao" />
 <p align="center">
   <a href="https://github.com/charlotte-xiao">
     <img
